@@ -5,5 +5,7 @@ Assignment-1
 3.[https://github.com/Samanvith07/23CSBTB40/blob/main/part3.ipynb]
 Assignment-2
 [https://github.com/Samanvith07/23CSBTB40/blob/main/AIML2.ipynb]
+Assignment-3
+[https://github.com/Samanvith07/23CSBTB40/blob/main/README.md]
 Assignment-4
 1.[https://github.com/Samanvith07/23CSBTB40/blob/main/Assignment4_1.ipynb]
