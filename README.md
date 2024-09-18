@@ -9,3 +9,5 @@ Assignment-1
 [https://github.com/Samanvith07/23CSBTB40/blob/main/README.md] 
  Assignment-4 
 1.[https://github.com/Samanvith07/23CSBTB40/blob/main/Assignment4_1.ipynb] 
+Assignment-5
+[https://github.com/Samanvith07/23CSBTB40/blob/main/Assignment5(Aiml).ipynb]
