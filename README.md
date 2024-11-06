@@ -15,3 +15,5 @@ Assignment-6
 [https://github.com/Samanvith07/23CSBTB40/blob/main/Aiml_assign_6.ipynb] 
 Assignment-7
 [https://github.com/Samanvith07/23CSBTB40/blob/main/Assignment7.ipynb] 
+Lab exam
+[https://github.com/Samanvith07/23CSBTB40/blob/main/labexam.ipynb]
